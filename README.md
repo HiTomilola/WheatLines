@@ -20,8 +20,8 @@ I focused on layout consistency, spacing and typography. The project follows a d
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/profile/HiTomilola)
-- Live Site URL: [Add live site URL here](https://github.com/HiTomilola)
+- Solution URL: (https://www.frontendmentor.io/profile/HiTomilola)
+- Live Site URL: (https://github.com/HiTomilola)
 
 
 ## My process
