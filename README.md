@@ -5,6 +5,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -17,6 +18,9 @@ This project is my solutio to the Frontend Mentor Recipe Page challenge. The goa
 
 I focused on layout consistency, spacing and typography. The project follows a desktop-first approach.
 
+
+### Screenshots
+![A preview of th completed project.](/Screenshots/)
 
 ### Links
 
