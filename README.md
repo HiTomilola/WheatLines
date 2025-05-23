@@ -20,7 +20,8 @@ I focused on layout consistency, spacing and typography. The project follows a d
 
 
 ### Screenshots
-![A preview of th completed project.](/Screenshots/)
+![A preview of th completed project.](/Screenshots/Screenshot%202025-05-23%20014646.png)
+
 
 ### Links
 
